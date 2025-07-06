@@ -1,0 +1,36 @@
+body {
+  background-color: papayawhip;
+  border: rosybrown;
+}
+
+h1 {
+  color: green;
+}
+h2{
+    color: blue;
+}
+p {
+  color: black;
+  font-size: medium;
+}
+li{
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  color:black
+}
+
+nav{
+  font-display: fallback;
+  font-weight: 600;
+  color: brown;
+  font-style: normal;
+  
+}
+
+ol{
+  font-size: larger;
+  font-weight: 500;
+  font-style: italic;
+  color: crimson;
+}
